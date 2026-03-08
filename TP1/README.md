@@ -1,1 +1,3 @@
-Put your TP1 solution here
+## TP1 folder
+
+Vectorisation + BoW
