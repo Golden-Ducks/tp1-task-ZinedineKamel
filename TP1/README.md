@@ -1,1 +1,3 @@
-##Evaluation Section in last Cell
+## TP1 folder
+
+Vectorisation + BoW
